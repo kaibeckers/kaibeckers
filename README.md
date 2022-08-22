@@ -17,7 +17,6 @@ I'm always looking to learn more languages and finish more projects.
 Here are some of the languages (and libraries) I want to learn & put to use:
 
 - HTML, CSS (web development)
-- React
 - Vue.js
 - Three.js
 - Java
